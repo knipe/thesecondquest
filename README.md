@@ -29,7 +29,7 @@ Neocities — Static web hosting.
 
 ---
 
-*Built in secret between shifts, behind closed doors, for the final day of December.
+Built in secret between shifts, behind closed doors, for the final day of December.
 
 <img width="1919" height="1042" alt="sexchem" src="https://github.com/user-attachments/assets/4fc453c1-5523-4af1-b549-a83a217ab6a3" />
 
