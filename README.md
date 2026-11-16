@@ -25,7 +25,7 @@ Custom Retro Aesthetic: Warm, atmospheric browser-based art designed to feel lik
 ## 🛠️ Built With
 
 HTML5 / CSS3 / Vanilla JavaScript 
-Neocities — Static web hosting.
+/ Neocities — Static web hosting.
 
 ---
 
